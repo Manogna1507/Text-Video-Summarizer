@@ -12,9 +12,9 @@ void main() async {
      await Firebase.initializeApp(
      options: const FirebaseOptions(
       apiKey:"YOUR API KEY",//new
-      appId:"1:527741242692:android:c2bddfd58f0872e05edb11",//new
-      messagingSenderId: "527741242692",//new
-      projectId:"final-16bc9") );//new
+      appId:"YOUR APP ID",//new
+      messagingSenderId: "YOUR SENDER ID",//new
+      projectId:"YOUR PROJECT ID") );//new
 
 
 
